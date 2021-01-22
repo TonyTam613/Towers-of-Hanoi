@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1576683321 source:p:\new\5-algorithms-tony-tam\towers of hanoi project\stack.cpp
+	"Stack.h"
+
+1576595142 p:\new\5-algorithms-tony-tam\towers of hanoi project\stack.h
+	<iostream>
+
+1576684646 source:p:\new\5-algorithms-tony-tam\towers of hanoi project\main.cpp
+	"Hanoi.h"
+	"Allegro.h"
+	"Stack.h"
+
+1576813187 source:c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\main.cpp
+	"Hanoi.h"
+	"Allegro.h"
+	"Stack.h"
+
+1576812677 c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\stack.h
+	<iostream>
+
+1576812677 source:c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\stack.cpp
+	"Stack.h"
+	"Allegro.h"
+
+1576812677 c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\hanoi.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1576813187 source:c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\allegro.cpp
+	"Allegro.h"
+	"Hanoi.h"
+	"Stack.h"
+
+1576812677 c:\users\seepa_000\documents\the gud git\5-algorithms-tony-tam\towers of hanoi project\allegro.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1576686117 source:p:\new\5-algorithms-tony-tam\towers of hanoi project\allegro.cpp
+	"Allegro.h"
+
+1576684685 p:\new\5-algorithms-tony-tam\towers of hanoi project\allegro.h
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+	<stdio.h>
+
+1576683662 p:\new\5-algorithms-tony-tam\towers of hanoi project\hanoi.h
+	<iostream>
+	<windows.h>
+
+1611279592 source:c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\allegro.cpp
+	"Allegro.h"
+	"Hanoi.h"
+	"Stack.h"
+
+1611274628 c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\allegro.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1611274628 c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\hanoi.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1611279174 c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\stack.h
+	<iostream>
+
+1611279174 source:c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\stack.cpp
+	"Stack.h"
+	"Allegro.h"
+
+1611279462 source:c:\users\seepa\documents\github\5-algorithms-tony-tam\towers of hanoi project\main.cpp
+	"Hanoi.h"
+	"Allegro.h"
+	"Stack.h"
+
