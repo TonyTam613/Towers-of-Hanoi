@@ -89,7 +89,7 @@ void MoveUpdate(int peg, int num, int height){
     }
     //updates the screen and rests for a bit so you can actually see whats happening
     al_flip_display();
-    al_rest(0.3);
+    al_rest(0.1);
 }
 
 void MyStack::AllegroDisplay(int PegNum, int DiskNum){
